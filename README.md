@@ -1,7 +1,4 @@
 # StudyNotion
-## Live 
- study-notion-olive-one.vercel.app/ \
-otp mail will be in your spam section
 ## Installation
 
 1. Clone the repository: `https://github.com/YashMangal0/StudyNotion.git`
